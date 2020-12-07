@@ -1,28 +1,6 @@
 <template>
   <div id="app">
-    <!-- Image and text -->
-    <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-dark ">
-        <a class="navbar-brand " href="# ">
-            <img src="https://getbootstrap.com/docs/4.5/assets/brand/bootstrap-solid.svg " width="30 " height="30
-        " class="d-inline-block align-top " alt=" " loading="lazy "> Bootstrap
-        </a>
-        <div class="collapse navbar-collapse justify-content-end " id="navbarNav ">
-            <ul class="navbar-nav ">
-                <li class="nav-item active ">
-                    <a class="nav-link " href="# ">Home <span class="sr-only ">(current)</span></a>
-                </li>
-                <li class="nav-item ">
-                    <a class="nav-link " href="# ">Features</a>
-                </li>
-                <li class="nav-item ">
-                    <a class="nav-link " href="# ">Pricing</a>
-                </li>
-                <li class="nav-item ">
-                    <a class="nav-link disabled " href="# " tabindex="-1 " aria-disabled="true ">Disabled</a>
-                </li>
-            </ul>
-        </div>
-    </nav>
+    
 
     <!-- carousel -->
     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
@@ -397,9 +375,12 @@
 </template>
 
 <script>
-
+import Encabezado from './components/Encabezado.vue';
 export default {
   name: 'App',
+components:{
+    Encabezado
+}
 }
 </script>
 
