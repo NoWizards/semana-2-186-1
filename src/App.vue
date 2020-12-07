@@ -139,6 +139,7 @@ import PageFooter from './components/PageFooter.vue'
 import Encabezado from './components/Encabezado.vue';
 import NoticiasApi from './components/NoticiasApi.vue'
 import TeamCard from './components/TeamCard.vue';
+import team from './json/team.json';
 
 
 export default {
@@ -151,43 +152,7 @@ export default {
   },
   data(){
     return {
-      team: [
-        {
-          codigo: 1,
-          nombre: "Primer Integrante",
-          descripcion: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lobortis vel orci sed auctor. Nulla dignissim, ipsum eget volutpat congue, nunc magna dapibus nulla, fermentum hendrerit sapien metus faucibus leo. Maecenas accumsan a augue eu placerat.`,
-          rol: "Tester",
-          image: "./image/gabriel.png"
-        },
-                {
-          codigo: 2,
-          nombre: "Primer Integrante",
-          descripcion: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lobortis vel orci sed auctor. Nulla dignissim, ipsum eget volutpat congue, nunc magna dapibus nulla, fermentum hendrerit sapien metus faucibus leo. Maecenas accumsan a augue eu placerat.`,
-          rol: "Arquitecto de Software",
-          image: "./image/wizards.png"
-        },
-                {
-          codigo: 3,
-          nombre: "Primer Integrante",
-          descripcion: `Esta obsesionada con las mascotas y con los perritos de tik-tok`,
-          rol: "Desarrollador Backend",
-          image: "./image/geraldine.jpeg"
-        },
-                {
-          codigo: 4,
-          nombre: "Primer Integrante",
-          descripcion: `Antropologo egresado de la Universidad Nacional y en vista de que es muy malo jugando Age of Empires (1000 de mmr) decidió aprender a programar para darle un rumbo a su vida`,
-          rol: "Desarrollador Frontend",
-          image: "./image/juank.png"
-        },
-                        {
-          codigo: 4,
-          nombre: "El cxlon de JuanC",
-          descripcion: `Antropologo egresado de la Universidad Nacional y en vista de que es muy malo jugando Age of Empires (1000 de mmr) decidió aprender a programar para darle un rumbo a su vida`,
-          rol: "Desarrollador Frontend",
-          image: "./image/juank.png"
-        }
-      ]
+      team: team
     }
   }
 
