@@ -236,109 +236,10 @@
 <!-- members -->
 <div class="container-fluid">
     <div class="row justify-content-center mb-5">
-
-        <div class="col mt-5">
-            <div class="card text-white bg-dark">
-                <div class="d-flex justify-content-center p-2">
-                    <svg width="12em" height="12em" viewBox="0 0 16 16" class="bi bi-person-bounding-box" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                        <path fill-rule="evenodd" d="M1.5 1a.5.5 0 0 0-.5.5v3a.5.5 0 0 1-1 0v-3A1.5 1.5 0 0 1 1.5 0h3a.5.5 0 0 1 0 1h-3zM11 .5a.5.5 0 0 1 .5-.5h3A1.5 1.5 0 0 1 16 1.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 1-.5-.5zM.5 11a.5.5 0 0 1 .5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 1 0 1h-3A1.5 1.5 0 0 1 0 14.5v-3a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v3a1.5 1.5 0 0 1-1.5 1.5h-3a.5.5 0 0 1 0-1h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 1 .5-.5z"
-                        />
-                        <path fill-rule="evenodd" d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
-                    </svg>
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title">Team member 1</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-                        content.</p>
-                </div>
-                <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
-                </div>
-            </div>
-        </div>
-
-        <div class="col mt-5">
-            <div class="card text-white bg-danger">
-                <div class="d-flex justify-content-center p-2">
-                    <svg width="12em" height="12em" viewBox="0 0 16 16" class="bi bi-person-bounding-box" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                        <path fill-rule="evenodd" d="M1.5 1a.5.5 0 0 0-.5.5v3a.5.5 0 0 1-1 0v-3A1.5 1.5 0 0 1 1.5 0h3a.5.5 0 0 1 0 1h-3zM11 .5a.5.5 0 0 1 .5-.5h3A1.5 1.5 0 0 1 16 1.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 1-.5-.5zM.5 11a.5.5 0 0 1 .5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 1 0 1h-3A1.5 1.5 0 0 1 0 14.5v-3a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v3a1.5 1.5 0 0 1-1.5 1.5h-3a.5.5 0 0 1 0-1h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 1 .5-.5z"
-                        />
-                        <path fill-rule="evenodd" d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
-                    </svg>
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title">Team member 2</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-                        content.</p>
-                </div>
-                <div class="card-footer bg-white">
-                    <small class="text-muted">Last updated 3 mins ago</small>
-                </div>
-            </div>
-        </div>
-
-        <div class="col mt-5">
-            <div class="card border-info text-info">
-                <div class="d-flex justify-content-center p-2">
-                    <svg width="12em" height="12em" viewBox="0 0 16 16" class="bi bi-person-bounding-box" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                        <path fill-rule="evenodd" d="M1.5 1a.5.5 0 0 0-.5.5v3a.5.5 0 0 1-1 0v-3A1.5 1.5 0 0 1 1.5 0h3a.5.5 0 0 1 0 1h-3zM11 .5a.5.5 0 0 1 .5-.5h3A1.5 1.5 0 0 1 16 1.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 1-.5-.5zM.5 11a.5.5 0 0 1 .5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 1 0 1h-3A1.5 1.5 0 0 1 0 14.5v-3a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v3a1.5 1.5 0 0 1-1.5 1.5h-3a.5.5 0 0 1 0-1h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 1 .5-.5z"
-                        />
-                        <path fill-rule="evenodd" d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
-                    </svg>
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title">Team member 3</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-                        content.</p>
-                </div>
-                <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
-                </div>
-            </div>
-        </div>
-
-        <div class="col mt-5">
-            <div class="card text-white bg-danger">
-                <div class="d-flex justify-content-center p-2">
-                    <svg width="12em" height="12em" viewBox="0 0 16 16" class="bi bi-person-bounding-box" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                        <path fill-rule="evenodd" d="M1.5 1a.5.5 0 0 0-.5.5v3a.5.5 0 0 1-1 0v-3A1.5 1.5 0 0 1 1.5 0h3a.5.5 0 0 1 0 1h-3zM11 .5a.5.5 0 0 1 .5-.5h3A1.5 1.5 0 0 1 16 1.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 1-.5-.5zM.5 11a.5.5 0 0 1 .5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 1 0 1h-3A1.5 1.5 0 0 1 0 14.5v-3a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v3a1.5 1.5 0 0 1-1.5 1.5h-3a.5.5 0 0 1 0-1h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 1 .5-.5z"
-                        />
-                        <path fill-rule="evenodd" d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
-                    </svg>
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title">Team member 4</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-                        content.</p>
-                </div>
-                <div class="card-footer bg-white">
-                    <small class="text-muted">Last updated 3 mins ago</small>
-                </div>
-            </div>
-        </div>
-
-        <div class="col mt-5">
-            <div class="card text-white bg-dark">
-                <div class="d-flex justify-content-center p-2">
-                    <svg width="12em" height="12em" viewBox="0 0 16 16" class="bi bi-person-bounding-box" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                        <path fill-rule="evenodd" d="M1.5 1a.5.5 0 0 0-.5.5v3a.5.5 0 0 1-1 0v-3A1.5 1.5 0 0 1 1.5 0h3a.5.5 0 0 1 0 1h-3zM11 .5a.5.5 0 0 1 .5-.5h3A1.5 1.5 0 0 1 16 1.5v3a.5.5 0 0 1-1 0v-3a.5.5 0 0 0-.5-.5h-3a.5.5 0 0 1-.5-.5zM.5 11a.5.5 0 0 1 .5.5v3a.5.5 0 0 0 .5.5h3a.5.5 0 0 1 0 1h-3A1.5 1.5 0 0 1 0 14.5v-3a.5.5 0 0 1 .5-.5zm15 0a.5.5 0 0 1 .5.5v3a1.5 1.5 0 0 1-1.5 1.5h-3a.5.5 0 0 1 0-1h3a.5.5 0 0 0 .5-.5v-3a.5.5 0 0 1 .5-.5z"
-                        />
-                        <path fill-rule="evenodd" d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
-                    </svg>
-                </div>
-                <div class="card-body">
-                    <h5 class="card-title">Team member 5</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
-                        content.</p>
-                </div>
-                <div class="card-footer">
-                    <small class="text-muted">Last updated 3 mins ago</small>
-                </div>
-            </div>
-        </div>
+        <team-card v-for="(item, index) in team" :key="index" :member="item"></team-card>
 
     </div>
-</div>
+</div>  
 
 <!-- Footer -->
 <footer class="page-footer bg-secondary text-white pt-4">
@@ -389,17 +290,60 @@
 </footer>
 <!-- Footer -->
 
-   
-
-
+  
 
   </div>
 </template>
 
 <script>
+import TeamCard from './components/TeamCard.vue';
 
 export default {
   name: 'App',
+  components:{
+    TeamCard
+  },
+  data(){
+    return {
+      team: [
+        {
+          codigo: 1,
+          nombre: "Primer Integrante",
+          descripcion: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lobortis vel orci sed auctor. Nulla dignissim, ipsum eget volutpat congue, nunc magna dapibus nulla, fermentum hendrerit sapien metus faucibus leo. Maecenas accumsan a augue eu placerat.`,
+          rol: "Tester",
+          imagen: "./image/gabriel.png"
+        },
+                {
+          codigo: 2,
+          nombre: "Primer Integrante",
+          descripcion: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lobortis vel orci sed auctor. Nulla dignissim, ipsum eget volutpat congue, nunc magna dapibus nulla, fermentum hendrerit sapien metus faucibus leo. Maecenas accumsan a augue eu placerat.`,
+          rol: "Arquitecto de Software",
+          imagen: "./image/wizards.png"
+        },
+                {
+          codigo: 3,
+          nombre: "Primer Integrante",
+          descripcion: `Esta obsesionada con las mascotas y con los perritos de tik-tok`,
+          rol: "Desarrollador Backend",
+          imagen: "./image/geraldine.jpeg"
+        },
+                {
+          codigo: 4,
+          nombre: "Primer Integrante",
+          descripcion: `Antropologo egresado de la Universidad Nacional y en vista de que es muy malo jugando Age of Empires (1000 de mmr) decidió aprender a programar para darle un rumbo a su vida`,
+          rol: "Desarrollador Frontend",
+          imagen: "./image/juank.png"
+        },
+                        {
+          codigo: 4,
+          nombre: "El cxlon de JuanC",
+          descripcion: `Antropologo egresado de la Universidad Nacional y en vista de que es muy malo jugando Age of Empires (1000 de mmr) decidió aprender a programar para darle un rumbo a su vida`,
+          rol: "Desarrollador Frontend",
+          imagen: "./image/juank.png"
+        }
+      ]
+    }
+  }
 }
 </script>
 
