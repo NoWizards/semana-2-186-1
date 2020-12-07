@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <encabezado></encabezado>
     
     <!-- carousel -->
     <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">

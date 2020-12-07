@@ -26,5 +26,10 @@
 </script>
 
 <style scoped>
+.team__image{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
 
 </style>
