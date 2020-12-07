@@ -2,7 +2,7 @@
         <div class="col mt-5">
             <div class="card text-white bg-dark">
                 <div class="d-flex justify-content-center p-2">
-                    <img :src="member.imagen" alt="" class="team__image">
+                    <img :src="member.image" alt="" class="team__image">
                 </div>
                 <div class="card-body">
                     <h5 class="card-title">{{member.codigo}}. {{member.nombre}}</h5>
